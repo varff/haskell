@@ -1,0 +1,2 @@
+# haskell
+ Tasks for exam
